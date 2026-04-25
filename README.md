@@ -35,5 +35,3 @@ A full-stack job search web application that allows users to search and explore 
 - Backend API: https://your-api.onrender.com
 
 ---
-
-## 📂 Project Structure
